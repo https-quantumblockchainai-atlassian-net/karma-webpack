@@ -42,8 +42,8 @@
   },
   "devDependencies": {
     "@babel/preset-env": "^7.12.13",
-    "@commitlint/cli": "^7.1.1",
-    "@commitlint/config-conventional": "^7.1.1",
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
     "@webpack-contrib/defaults": "^2.5.0",
     "@webpack-contrib/eslint-config-webpack": "^3.0.0",
     "babel-cli": "^6.26.0",
